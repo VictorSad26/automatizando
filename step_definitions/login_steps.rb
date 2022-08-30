@@ -7,5 +7,6 @@ Quando('eu faço login com meus dados') do
 end
 
 Entao('devo ser autenticado com sucesso') do
+
   raise 'mensagem inválida' if page.has_text?('Olá Victor!') != true
 end
