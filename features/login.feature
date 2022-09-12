@@ -1,7 +1,6 @@
 #language:pt
 
- Funcionalidade: Login
-   Para que eu possa entrar no bet365 e ver minhas apostas
+ Funcionalidade: Login na Droga Raia
 
   Cenario: Usuario realizando Login com E-mail
     Dado que eu esteja na pagina de login
