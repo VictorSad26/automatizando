@@ -7,7 +7,7 @@ class LoginPage < SitePrism::Page
 
   def fazer_login
     email.set   'victor.sad@hotmail.com'
-    senha.set   '41485337'
+    senha.set   '437'
     logar.click
   end
 end
